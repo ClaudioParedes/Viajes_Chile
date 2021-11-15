@@ -12,6 +12,12 @@ body{
     background-color: #17A589;
 }
 
+.bg-desta {
+    background-color: #21618C;
+    
+
+}
+
 .img-size {
 max-height: 25%;
 max-width: 100%;
@@ -24,4 +30,9 @@ max-width: 100%;
     width:100%;
     z-index:10;
     max-width:100%;
+}
+
+.mw {
+
+    max-width: 50REM;
 }
