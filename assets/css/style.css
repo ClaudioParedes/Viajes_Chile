@@ -9,5 +9,19 @@ body{
 
 .inicio {
 
-    background-color: #21618C;
+    background-color: #17A589;
+}
+
+.img-size {
+max-height: 25%;
+max-width: 100%;
+
+
+}
+
+.navbar{
+    position:absolute;
+    width:100%;
+    z-index:10;
+    max-width:100%;
 }
