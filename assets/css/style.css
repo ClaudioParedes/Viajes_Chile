@@ -13,7 +13,9 @@ body{
 }
 
 .bg-desta {
-    background-color: #21618C;
+    /* background-color: #21618C; */
+    background: rgb(33,97,140);
+background: linear-gradient(80deg, rgba(33,97,140,1) 0%, rgba(11,62,97,0.8743872549019608) 100%, rgba(0,212,255,1) 100%);
     
 
 }
@@ -35,4 +37,10 @@ max-width: 100%;
 .mw {
 
     max-width: 50REM;
+}
+
+.titulo-izq {
+
+    text-align: left;
+    
 }
