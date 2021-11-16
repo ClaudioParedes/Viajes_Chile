@@ -1,3 +1,14 @@
+:root{
+
+    --primary-color: #21618C;
+}
+.bg-primary {
+
+background-color: var(--primary-color);
+
+}
+
+
 body{
 
     font-family: 'Spectral', serif;
@@ -44,3 +55,20 @@ max-width: 100%;
     text-align: left;
     
 }
+
+.sombra {
+
+    box-shadow: 10px 10px 10px rgba(11,62,97,0.8743872549019608);
+}
+
+/* .card {
+
+    min-height: 100%;
+} */
+
+.card-img-top {
+
+height: 13rem;
+
+}
+
