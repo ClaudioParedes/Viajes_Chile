@@ -61,10 +61,15 @@ max-width: 100%;
     box-shadow: 10px 10px 10px rgba(11,62,97,0.8743872549019608);
 }
 
-/* .card {
+.card-desta {
 
     min-height: 100%;
-} */
+} 
+
+.card-qs {
+
+    max-height: 75%;
+}
 
 .card-img-top {
 
