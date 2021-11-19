@@ -9,8 +9,6 @@ $(function(){
     
     // Toggle con funcion de Hide para Info de Tarjetas
     $(".card-title").click(function(){
-        $(this).parent().card-text.toggle(800);
-        // var parent = $(this).parent().card-text; 
-        // console.log(parent);
+      $(this).parent().children().last().toggle(800);
     })
    })
