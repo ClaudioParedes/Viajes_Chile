@@ -8,14 +8,17 @@ background-color: var(--primary-color);
 
 }
 
+html{
 
+    scroll-behavior: smooth;
+}
 body{
 
     font-family: 'Spectral', serif;
     color: #21618C;
     background-color: #17A589;
     color: #ECF0F1;
-    scroll-behavior: smooth;
+    
     
 }
 
@@ -31,6 +34,7 @@ background: linear-gradient(80deg, rgba(33,97,140,1) 0%, rgba(11,62,97,0.8743872
     
 
 }
+
 
 .bg-desta-hd {
     /* background-color: #21618C; */
